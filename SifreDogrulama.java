@@ -16,5 +16,7 @@ public class SifreDogrulama {
         else{
             System.out.println("Giriş Başarısız!");
         }
+
+        System.out.println("I love Java");
     }
 }
